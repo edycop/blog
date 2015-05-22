@@ -1,2 +1,2 @@
-# blog
+# Blog
 Pensamientos de un ingeniero
