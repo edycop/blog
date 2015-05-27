@@ -27,9 +27,9 @@ Era 1986 o 1987. Tendría dieciséis o diecisiete. Mis años de baloncesto estab
 
 Opté por un Sinclair QL, que muchos de ustedes probablemente son muy jóvenes para recordar. Aquí la historia. La Sinclair fue una de las primeras máquinas de 32-bits en el mercado de uso doméstico. Sir Clive Sinclair, el fundador de la compañía, fue el Steve Wozniak de Gran Bretaña. Él desarrolló estos “componentes” informáticos que fueron vendidos en Los Estados Unidos como computadores Timex. Es decir, la misma compañía que hacia los relojes Timex importaba la materia prima del computador Sinclair y lo vendía aquí con el nombre de Timex. Los primeros fueron vendidos como “componentes” antes de que él empezara la venta de computadores ya ensamblados.
 
-![Sinclair QL](http://dl.dropbox.com/u/1331087/images/sinclair-ql-large.jpg “Sinclair QL”)
+![Sinclair QL](http://dl.dropbox.com/u/1331087/images/sinclair-ql-large.jpg)
 
-![Microdrive](http://dl.dropbox.com/u/1331087/images/214px-Microdrive_cart.png “Microdrive”)
+![Microdrive](http://dl.dropbox.com/u/1331087/images/214px-Microdrive_cart.png)
 
 El Sinclair tenía un sistema operativo denominado Q-DOS. Yo lo sabía con toda seguridad en ese momento. Fue especialmente escrito para ese computador en particular. Tenía un sistema base realmente avanzado para la época, y unos gráficos bastante buenos. Una de las cosas que me fascinaba del sistema operativo era la multitarea: podías ejecutar varios programas a la vez. Sin embargo, el sistema base no era multitarea, así que no podías ejecutar más que un programa base a la vez. Pero si escribías tus propios programas en lenguaje ensamblador, usted podía hacer que el sistema operativo los planificará [5] y les asignara su intervalo de ejecución, de esa manera podía ejecutar muchos programas al mismo tiempo.
 
