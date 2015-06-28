@@ -11,6 +11,8 @@ Tags: howto, religión, moral, ciencia
 
 Una pequeña niña de Nueva York llamada Phyllis envío una carta al gran Albert Einstein en 1936:
 
+----
+
 Iglesia Riverside
 
 19 de enero de 1936
@@ -27,7 +29,11 @@ Respetuosamente,
 
 Phyllis
 
+----
+
 Sólo cinco días después, Einstein responde:
+
+----
 
 24 de enero de 1936
 
@@ -44,7 +50,7 @@ Pero también, todos los que están seriamente involucrados en la búsqueda de l
 Con un cordial saludo,
 
 A. Einstein
-
+----
 
 *N. del T.: Un interesante dialogo entre Einstein y Tagore se [puede leer aquí](http://www.brainpickings.org/index.php/2012/04/27/when-einstein-met-tagore/)*
 
