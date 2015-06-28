@@ -50,6 +50,7 @@ Pero también, todos los que están seriamente involucrados en la búsqueda de l
 Con un cordial saludo,
 
 A. Einstein
+
 ----
 
 *N. del T.: Un interesante dialogo entre Einstein y Tagore se [puede leer aquí](http://www.brainpickings.org/index.php/2012/04/27/when-einstein-met-tagore/)*
